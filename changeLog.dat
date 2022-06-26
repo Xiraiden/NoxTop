@@ -1,0 +1,14 @@
+!CHANGELOGS {v0.01}
+!NoxTop {V0.08}
+
+[Core]{
+Added Auto Checking And Downloading Of Changelogs
+}.E1
+[Timer]{
+Added Stop Button
+Reset Timer When Stopped
+Can Restart Timer After Stopped
+}.E2
+[BugFixes]{
+NONE
+}.E3
