@@ -1,8 +1,9 @@
-!CHANGELOGS {v0.01}
-!NoxTop {V0.08}
+!CHANGELOGS {v0.02}
+!NoxTop {V0.09}
 
 [Core]{
-Added Auto Checking And Downloading Of Changelogs
+Complete Auto Updating Logs
+Via Github
 }.E1
 [Timer]{
 Added Stop Button
