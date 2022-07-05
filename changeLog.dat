@@ -1,13 +1,35 @@
-!CHANGELOGS {v0.02}
-!NoxTop {V0.10}
+!CHANGELOGS {v0.04}
+!NoxTop {V0.10.1}
 
 [Core]{
-Fixed Window BackGround Not Following
-Dragged Windows
+Massive overhaul to changelog structuring.
+Refactored all of the utils for Uniformity.
 }.E1
-[Timer]{
-NONE
+
+[MedTracker]{
 }.E2
-[BugFixes]{
-NONE
+
+[Calculator]{
 }.E3
+
+[Console]{
+}.E4
+
+[Timer]{
+}.E5
+
+[Performance]{
+}.E6
+
+[BugFixes]{
+}.E7
+
+[Notes]{
+}.E8
+
+[Errors]{
+}.E9
+
+[Todo]{
+Rebuilt MedTracker.
+}.E10
