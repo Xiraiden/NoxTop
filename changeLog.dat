@@ -34,4 +34,6 @@ Refactored code to not rely on random code.
 
 [Todo]{
 Minor tweaks to MedTracker Still Needed for EdgeCases
+Fix Regular Expression to account for both versions when
+checking for updates to changeLog
 }.E10
