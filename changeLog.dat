@@ -1,4 +1,4 @@
-!CHANGELOGS {v0.04.1}
+!CHANGELOGS {v0.04.2}
 !NoxTop {V0.11}
 
 [Core]{
@@ -17,23 +17,28 @@ Refactored code to not rely on random code.
 [Console]{
 }.E4
 
-[Timer]{
+[ChangeLogs]{
+Added this SubGroup
+Fixed Regex For Checking Both -
+App Verion and Log Verion - 
+When Deciding to Update Logs
 }.E5
 
-[Performance]{
+[Timer]{
 }.E6
 
-[BugFixes]{
+[Performance]{
 }.E7
 
-[Notes]{
+[BugFixes]{
 }.E8
 
-[Errors]{
+[Notes]{
 }.E9
+
+[Errors]{
+}.E10
 
 [Todo]{
 Minor tweaks to MedTracker Still Needed for EdgeCases
-Fix Regular Expression to account for both versions when
-checking for updates to changeLog
-}.E10
+}.E11
